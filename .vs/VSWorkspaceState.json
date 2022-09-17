@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AgenciaBancaria.ConsoleApp",
+    "\\AgenciaBancaria.Domain",
+    "\\AgenciaBancaria.Domain\\Exceptions",
+    "\\AgenciaBancaria.Infra.Data",
+    "\\AgenciaBancaria.Infra.Data\\Repository"
+  ],
+  "SelectedNode": "\\AgenciaBancaria.ConsoleApp\\MenuDeInteracao.cs",
+  "PreviewInSolutionExplorer": false
+}
